@@ -1,0 +1,26 @@
+[
+  {
+    "key": 1,
+    "title": "Automation Testing Project - Ecommerce Application",
+    "imageSrc": "https://miro.medium.com/v2/resize:fit:900/1*g_b84bPN6qKvVjeNS3cmeQ.jpeg",
+    "description": "This project is tested using test automation tool selenium using java.",
+    "demo": "#",
+    "source": "https://github.com/vaibhavverulkar08/MyPersonalProjectWork"
+  },
+  {
+    "key": 2,
+    "title": "Blogging Web Application",
+    "imageSrc": "https://ignek.com/wp-content/uploads/2024/02/Blogging-Applications.webp",
+    "description": "This project is made with spring boot, java, and MySQL.",
+    "demo": "#",
+    "source": "https://github.com/vaibhavverulkar08/MyBlogApp"
+  },
+  {
+    "key": 3,
+    "title": "Learnify Hub - Online Learning Platform | Personal Web App Project",
+    "imageSrc": "https://media.geeksforgeeks.org/wp-content/uploads/20220325175226/WebDevelopmentProjects2.png",
+    "description": "This is a project live and deployed on netlify using HTML,CSS,JavaScript,Bootstrap (Framework)",
+    "demo": "#",
+    "source": "https://learnifyhub.netlify.app/"
+  }
+]

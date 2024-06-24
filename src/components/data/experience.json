@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "role": "Software Testing Intern",
+    "organisation": "Startup Company",
+    "startDate": "August,2022 to",
+    "endDate": "July 2023",
+    "location": "Pune",
+    "experiences": [
+      "Worked experience on creating test cases, test execution, reporting defect, test automation.",
+      "Worked on web based application & mobile based application testing."
+    ],
+    "imageSrc": ""
+  }
+  
+]
